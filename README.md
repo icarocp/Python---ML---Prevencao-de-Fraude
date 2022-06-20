@@ -1,5 +1,5 @@
-# Python---ML---Prevencao-de-Fraude
-Criar modelos de Machine Learning para Prevenção de Fraude. 
+# Python---ML---Prevencao-à-Fraude
+Criar modelos de Machine Learning para Prevenção à Fraude. 
 
 
 STATUS: em andamento...
